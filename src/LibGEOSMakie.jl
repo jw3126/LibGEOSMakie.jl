@@ -1,5 +1,5 @@
 module LibGEOSMakie
-
-# Write your package code here.
-
+import LibGEOS
+import GeoInterfaceMakie
+GeoInterfaceMakie.@enable(LibGEOS.AbstractGeometry)
 end
