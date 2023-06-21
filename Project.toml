@@ -9,7 +9,7 @@ LibGEOS = "a90b1aa1-3769-5649-ba7e-abc5a9d163eb"
 
 [compat]
 GeoInterfaceMakie = "0.1"
-LibGEOS = "0.7"
+LibGEOS = "0.7, 0.8"
 julia = "1.6"
 
 [extras]
